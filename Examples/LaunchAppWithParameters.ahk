@@ -1,0 +1,1 @@
+﻿Run, C:\Rainmeter\Rainmeter.exe !ToggleConfig "QD1" "Taskbar.ini"
